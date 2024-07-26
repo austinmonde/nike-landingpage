@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 You can view the live demo of the application here:
 
-[https://nikeyapp-nggn2qjtb-austin-mondes-projects.vercel.app/](https://nikeyapp-nggn2qjtb-austin-mondes-projects.vercel.app/)
+[nikeylandingpage](https://nikeyapp-nggn2qjtb-austin-mondes-projects.vercel.app/)
